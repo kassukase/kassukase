@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kassukase
 - 👀 I’m interested about coding in general
-- 🌱 I’m currently learning python!
+- 🌱 I’m currently learning python, C and Java!
 
 
 <!---
